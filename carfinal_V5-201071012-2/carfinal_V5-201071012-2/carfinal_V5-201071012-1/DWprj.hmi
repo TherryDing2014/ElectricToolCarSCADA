@@ -1,0 +1,14 @@
+[INIT]
+PICFIX=1
+VARCount=64
+SCREENDSIZE=800X600
+SPADDRESS=5000
+[IMG]
+00=00_main.bmp
+02=02_set.bmp
+03=03_camera.bmp
+04=04_lookup.bmp
+05=05_mainprint.bmp
+08=08_ManueDeal.bmp
+30=30-caculate.bmp
+01=01_main.bmp
